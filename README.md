@@ -32,4 +32,4 @@ Tools: Git, Docker
 
 ---
 
-⭐️ From [LucasG2008](https://github.com/Lucas-Granucci)
+⭐️ From [Lucas-Granucci](https://github.com/Lucas-Granucci)
