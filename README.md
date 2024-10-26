@@ -17,12 +17,12 @@ Tools: Git, Docker
 
 ## Featured Projects
 
-### 🚀 [ChickenAI](https://github.com/LucasG2008/ChickenAI)
+### 🚀 [ChickenAI](https://github.com/Lucas-Granucci/ChickenAI)
 - LLM powered chat application for FIRST robotics
 - Access to The Blue Alliance API to get up-to-date information
 - Clean and modern UI built with Streamlit 
 
-### 💡 [Reservoir Computing](https://github.com/LucasG2008/reservoir-computing)
+### 💡 [Reservoir Computing](https://github.com/Lucas-Granucci/reservoir-computing)
 - Implements revervoir computing models from scratch with Numpy
 - Explores usage of RC models in time series forecasting
 - Provides options for hyperparameter tuning RC models
@@ -32,4 +32,4 @@ Tools: Git, Docker
 
 ---
 
-⭐️ From [LucasG2008](https://github.com/LucasG2008)
+⭐️ From [LucasG2008](https://github.com/Lucas-Granucci)
