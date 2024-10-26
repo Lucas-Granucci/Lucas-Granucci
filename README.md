@@ -1,4 +1,16 @@
-# Hello, I'm Lucas 👋
+**- 👋 Hi, I’m @LucasG2008
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+LucasG2008/LucasG2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+**# Hello, I'm Lucas 👋
 
 ## About Me
 > I'm a High School student passionate about coding, robotics and AI. I am always looking to learn more about new technologies (and old!)
@@ -32,4 +44,4 @@ Tools: Git, Docker
 
 ---
 
-⭐️ From [[your-username]](https://github.com/your-username)
+⭐️ From [LucasG2008](https://github.com/LucasG2008)
