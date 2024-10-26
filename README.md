@@ -1,4 +1,4 @@
-**# Hello, I'm Lucas 👋
+# Hello, I'm Lucas 👋
 
 ## About Me
 > I'm a High School student passionate about coding, robotics and AI. I am always looking to learn more about new technologies (and old!)
