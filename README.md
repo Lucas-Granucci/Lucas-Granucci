@@ -3,10 +3,10 @@
 ## About Me
 > I'm a High School student passionate about coding, robotics and AI. I am always looking to learn more about new technologies (and old!)
 
-- 🔭 Currently working on: ChickenDash
-- 🌱 Learning: Java OOP
+- 🔭 Currently working on: Bentham Dataset OCR
+- 🌱 Learning: Java, C++, Javascript/HTML/CSS
 - 🤖 Part of FIRST robotics team 3082
-- 📃 Researching multilingual natural language processing
+- 📃 Researching multilingual natural language processing for low-resource languages
 
 ## Tech Stack
 ```
