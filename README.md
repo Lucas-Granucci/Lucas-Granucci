@@ -17,6 +17,11 @@ Tools: Git, Docker
 
 ## Featured Projects
 
+### 🧠 [Multilingual Named Entity Recongition](https://github.com/Lucas-Granucci/MULTI-NER)
+- Addresses disparities in NLP performance across languages
+- Implements novel machine learning techniques to improve NER in low-data scenarios
+- ML techniques: cross-lingual transfer learning and pseudo-labeling
+
 ### 🚀 [ChickenAI](https://github.com/Lucas-Granucci/ChickenAI)
 - LLM powered chat application for FIRST robotics
 - Access to The Blue Alliance API to get up-to-date information
