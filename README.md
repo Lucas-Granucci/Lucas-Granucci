@@ -3,7 +3,7 @@
 ## About Me
 > I'm a High School student passionate about coding, robotics and AI. I am always looking to learn more about new technologies (and old!)
 
-- 🔭 Currently working on: Bentham Dataset OCR
+- 🔭 Currently working on: Scientifc text translation using LLM's
 - 🌱 Learning: Java, C++, Javascript/HTML/CSS
 - 🤖 Part of FIRST robotics team 3082
 - 📃 Researching multilingual natural language processing for low-resource languages
@@ -21,6 +21,10 @@ Tools: Git, Docker
 - Addresses disparities in NLP performance across languages
 - Implements novel machine learning techniques to improve NER in low-data scenarios
 - ML techniques: cross-lingual transfer learning and pseudo-labeling
+
+### ⚙️ [Reservoir Computing for Time Series](https://github.com/Lucas-Granucci/reservoir-computing)
+- Explores reservoir computing machine learning models for time-series analysis
+- Develops web interface for simple hyperparameter tuning and results visualization
 
 ### 🚀 [ChickenAI](https://github.com/Lucas-Granucci/ChickenAI)
 - LLM powered chat application for FIRST robotics
